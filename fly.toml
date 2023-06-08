@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for dark-silence-3891 on 2023-06-07T08:59:04+07:00
+# fly.toml app configuration file generated for muddy-pond-3224 on 2023-06-08T15:09:43+07:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "dark-silence-3891"
-primary_region = "hkg"
+app = "muddy-pond-3224"
+primary_region = "sin"
 
 [http_service]
   internal_port = 3000
